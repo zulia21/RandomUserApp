@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomUserApp</string>
+    <string name="feminino"> Feminino </string>
+    <string name="masculino"> Masculino </string>
+    <string name="random_title"> Random User Generator </string>
+    <string name="nacionalidade"> Nacionalidade </string>
+    <string name="buscar_na_api"> Buscar na API </string>
+</resources>
